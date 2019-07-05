@@ -1,4 +1,4 @@
-# afterpay-coding-test
+# credit card fraud detection algorithm
 
 #### This exercise is developed in Laravel and includes following:
 A credit card transaction record is comprised of the following elements:
